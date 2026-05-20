@@ -1,0 +1,12 @@
+{
+  "name": "heibai-qi",
+  "version": "1.0.0",
+  "description": "黑白棋联网对战",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}

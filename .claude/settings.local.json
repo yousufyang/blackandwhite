@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(node -c server.js)",
+      "Bash(node *)",
+      "Bash(kill %1)",
+      "Bash(curl -s http://192.168.50.145:8080/)"
+    ]
+  }
+}
